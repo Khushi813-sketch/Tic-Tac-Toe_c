@@ -26,4 +26,4 @@ This is a simple 2-player Tic-Tac-Toe game developed in the C programming langua
 
 ```bash
 gcc tic_tac_toe.c -o tic_tac_toe
-./tic_tac_toe
+./tic_tac_toee
